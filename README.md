@@ -1,7 +1,7 @@
- ### Hi there!👋
- - I'm Chukwuka Chimdindu Emmanuel (Dindu)
+### Hi there!👋
+I'm Chukwuka Chimdindu Emmanuel (Dindu)
  
-- ✨ I am frontend web developer living in Lagos, Nigeria and passionate about problem solving. I love taking on new challenges and figuring stuff out. I have experience working with teams to produce impactful websites that engage customers and deliver business results.
+✨ I am frontend web developer living in Lagos, Nigeria and passionate about problem solving. I love taking on new challenges and figuring stuff out. I have experience working with teams to produce impactful websites that engage customers and deliver business results.
 
 - 🔭 I’m currently working on a personal nft project
 
