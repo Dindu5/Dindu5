@@ -1,16 +1,16 @@
-### Hi there 👋
+ ### Hi there!👋
+ - I'm Chukwuka Chimdindu Emmanuel (Dindu)
+ 
+- ✨ I am frontend web developer living in Lagos, Nigeria and passionate about problem solving. I love taking on new challenges and figuring stuff out. I have experience working with teams to produce impactful websites that engage customers and deliver business results.
 
-<!--
-**Dindu5/Dindu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a personal nft project
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning solidity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on web 3 projects
+
+- 💬 Ask me about React, Vue, TypeScript and Solidity
+
+- 📫 How to reach me via email (chimdindue@gmail.com) and [linkedIn](www.linkedin.com/in/chimdindu-emmanuel)
+
+- Visit my [portfolio](https://dindu5.netlify.app)
