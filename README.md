@@ -13,4 +13,4 @@ I'm Chukwuka Chimdindu Emmanuel (Dindu)
 
 - 📫 How to reach me via email (chimdindue@gmail.com) and [linkedIn](www.linkedin.com/in/chimdindu-emmanuel)
 
-- Visit my [portfolio](https://dindu5.netlify.app)
+- Visit my [portfolio](https://dindu.me)
